@@ -10,9 +10,9 @@ redirect_from:
 Hi! I'm Aman Patel, a 5th year Computer Science PhD student at Stanford advised by [Anshul Kundaje](https://github.com/academicpages/academicpages.github.io). 
 
 My research interests lie in the development and evaluation of novel DNA sequence modeling approaches, along with their applications to interesting and impactful biological problems. More specifically, my work has followed these themes:
-*Developing novel DNA language modeling approaches focused on regulatory DNA
-*Creating rigorous and biologically motivated evaluation suites for these models
-*Applying genomic models to the fields of population genetics and evolution
+* Developing novel DNA language modeling approaches focused on regulatory DNA
+* Creating rigorous and biologically motivated evaluation suites for these models
+* Applying genomic models to the fields of population genetics and evolution
 
 Previously, I received Bachelor's and Master's degrees from MIT, where I worked in the lab of [Manolis Kellis](https://compbio.mit.edu/). I also spent two summers interning at [GRAIL](https://grail.com/).
 
